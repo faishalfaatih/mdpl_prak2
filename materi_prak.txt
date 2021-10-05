@@ -1,8 +1,8 @@
 Pertemuan 1:
 - Perkenalan, Kontrak Kuliah, Penjelasan Silabus
 - Pengantar MDPL Praktik
-- Life Cycle MDPL
 - Jenis-jenis MDPL
+- Langkah-langkah tiap metodw
 Pertemuan 2:
 - Materi tentang GIT dan GITHUB
 - Latihan dan belajar GITHUB
